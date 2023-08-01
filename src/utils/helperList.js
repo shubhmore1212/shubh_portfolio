@@ -119,25 +119,23 @@ export const skillsList = [
 
 export const projectsList = [
   {
-    label: "ECommerce",
-    imgSrc: "https://i.postimg.cc/vmzBQWtx/subtitler-1-1.jpg",
-    src: "",
-    githubSrc: "",
-  },
-  {
     label: "Admin Mern Dashboard",
-    imgSrc: "https://i.postimg.cc/t4fFtzHQ/c2d-min-1.jpg",
-    src: "https://github.com/shubhmore1212/admin_dashboard_mern",
+    imgSrc: "xSJj-PN6mEE",
+    githubSrc: "https://github.com/shubhmore1212/admin_dashboard_mern",
   },
   {
     label: "Social Media",
-    imgSrc: "https://i.postimg.cc/t4fFtzHQ/c2d-min-1.jpg",
-    src: "https://github.com/shubhmore1212/sociapedia_mern",
+    imgSrc: "VDeNvKTAMhs",
+    githubSrc: "https://github.com/shubhmore1212/sociapedia_mern",
   },
   {
     label: "Event Registration System",
-    imgSrc: "https://i.ibb.co/fDgXSmh/authex-1.png",
-    src: "https://auth-example.netlify.app/",
+    imgSrc: "RuhvYuqwf1Q",
     githubSrc: "https://github.com/shubhmore1212/event-registration",
+  },
+  {
+    label: "ECommerce",
+    imgSrc: "mVvUjiI9DFw",
+    githubSrc: "",
   },
 ];
